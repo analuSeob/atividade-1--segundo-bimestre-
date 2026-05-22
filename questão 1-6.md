@@ -5,7 +5,7 @@
 2- Quando foi executado, a frase transmitida ficou colada, por exemplo: "Ola mundocomo vai" 
 
 3- A diferença do código do exercício 2, é que neste exercício utilizamos a "\n", fazendo a frase pular uma linha, assim
-fazendo as frases ficar separada diferente do exercício dois que ficaram grudadas. 
+fazendo as frases ficar separadas. 
 
 4-ele pede para a pessoa digitar um nome e depois mostra esse mesmo nome na tela.
 
